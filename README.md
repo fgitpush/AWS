@@ -44,4 +44,4 @@ All things AWS
 42. `SES`: Email
 43. `Cloud Formation`: Infrastructure as code
 44. `Amplify`: Connect via JS
-45. `AWS Budgets` :
+45. `AWS Budgets` : Manage your budgets in AWS
