@@ -13,7 +13,7 @@ All things AWS
 11. Snow:
 12. Elastic Container Registry: Docker hub for AWS
 13. Kubernetes: 
-14. Fargate:
+14. Fargate: Serverless
 15. App Runner:
 16. S3: Cloud based assets
 17. Glacier: storage with low cost
